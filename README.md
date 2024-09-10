@@ -1,4 +1,4 @@
-# **Hi! My name is Muhammad Bilawal 😄**
+# **Hi! My Name Is Muhammad Bilawal 😄**
 
 **🌍 I Am A Software Engineering Student And A Front-End Developer Based In Risalpur, Pakistan.**
 
