@@ -13,4 +13,4 @@
 </div>
 
 ## Socials
-<a href="https://www.linkedin.com/in/yourprofile/" style="display: inline-block; padding: 10px 20px; background-color: #3b82f6; color: white; font-weight: bold; border-radius: 4px; text-decoration: none;">LinkedIn</a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
