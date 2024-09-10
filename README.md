@@ -4,6 +4,7 @@
 
 ## Skills
 <div style="display: flex;">
+  <img src="https://skillicons.dev/icons?i=c" alt="C" style="height: 56px; cursor: pointer; transition: transform 0.5s;" />
   <img src="https://skillicons.dev/icons?i=cpp" alt="C++" style="height: 56px; cursor: pointer; transition: transform 0.5s;" />
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" style="height: 56px; transition: transform 0.5s;" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" style="height: 56px; cursor: pointer; transition: transform 0.5s;" />
