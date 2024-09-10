@@ -1,9 +1,9 @@
-# **Hi! My name is Muhammad Bilaawal 😄**
+# **Hi! My name is Muhammad Bilawal 😄**
 
-🌍 I Am A Software Engineering Student And A Front-End Developer Based In Risalpur, Pakistan.
+**🌍 I Am A Software Engineering Student And A Front-End Developer Based In Risalpur, Pakistan.**
 
 ## Skills
-<div style="display: flex; gap: 20px;">
+<div style="display: flex; gap: 30px;">
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" style="height: 56px; cursor: pointer; transition: transform 0.5s;" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" style="height: 56px; cursor: pointer; transition: transform 0.5s;" />
   <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" style="height: 56px; cursor: pointer; transition: transform 0.5s;" />
@@ -14,3 +14,4 @@
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
