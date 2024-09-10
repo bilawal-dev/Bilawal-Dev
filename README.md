@@ -13,6 +13,4 @@
 </div>
 
 ## Socials
-<a href="https://www.linkedin.com/in/muhammad-bilawal-9b57872ba/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-bilawal-9b57872ba/)
