@@ -3,7 +3,7 @@
 **🌍 I Am A Software Engineering Student And A Front-End Developer Based In Risalpur, Pakistan.**
 
 ## Skills
-<div style="display: flex;">
+<div style="display: flex; gap:50px">
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" style="height: 56px; margin-right: 20px; cursor: pointer; transition: transform 0.5s;" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" style="height: 56px; margin-right: 20px; cursor: pointer; transition: transform 0.5s;" />
   <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" style="height: 56px; margin-right: 20px; cursor: pointer; transition: transform 0.5s;" />
