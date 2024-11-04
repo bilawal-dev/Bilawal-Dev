@@ -11,9 +11,10 @@
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="height: 56px; cursor: pointer; transition: transform 0.5s;" />
   <img src="https://skillicons.dev/icons?i=react" alt="React" style="height: 56px; cursor: pointer; transition: transform 0.5s;" />
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" style="height: 56px; cursor: pointer; transition: transform 0.5s;" />
-  <img src="https://skillicons.dev/icons?i=node" alt="React" style="height: 56px; cursor: pointer; transition: transform 0.5s;" />
-  <img src="https://skillicons.dev/icons?i=express" alt="Tailwind" style="height: 56px; cursor: pointer; transition: transform 0.5s;" />
-  <img src="https://skillicons.dev/icons?i=mongo" alt="Tailwind" style="height: 56px; cursor: pointer; transition: transform 0.5s;" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" style="height: 56px; cursor: pointer; transition: transform 0.5s;" />
+  <img src="https://skillicons.dev/icons?i=express" alt="Express" style="height: 56px; cursor: pointer; transition: transform 0.5s;" />
+  <img src="https://skillicons.dev/icons?i=mongo" alt="MongoDB" style="height: 56px; cursor: pointer; transition: transform 0.5s;" />
+  <img src="https://skillicons.dev/icons?i=next" alt="Next" style="height: 56px; cursor: pointer; transition: transform 0.5s;" />
 </div>
 
 ## Socials
