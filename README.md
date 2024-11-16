@@ -15,6 +15,7 @@
   <img src="https://skillicons.dev/icons?i=express" alt="Express" style="height: 56px; cursor: pointer; transition: transform 0.5s;" />
   <img src="https://skillicons.dev/icons?i=mongo" alt="MongoDB" style="height: 56px; cursor: pointer; transition: transform 0.5s;" />
   <img src="https://skillicons.dev/icons?i=next" alt="Next" style="height: 56px; cursor: pointer; transition: transform 0.5s;" />
+  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" style="height: 56px; cursor: pointer; transition: transform 0.5s;" />
 </div>
 
 ## Socials
