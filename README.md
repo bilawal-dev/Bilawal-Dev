@@ -16,6 +16,8 @@
   <img src="https://skillicons.dev/icons?i=mongo" alt="MongoDB" style="height: 56px; cursor: pointer; transition: transform 0.5s;" />
   <img src="https://skillicons.dev/icons?i=next" alt="Next" style="height: 56px; cursor: pointer; transition: transform 0.5s;" />
   <img src="https://skillicons.dev/icons?i=redux" alt="Redux" style="height: 56px; cursor: pointer; transition: transform 0.5s;" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" style="height: 56px; cursor: pointer; transition: transform 0.5s;" />
+  <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" style="height: 56px; cursor: pointer; transition: transform 0.5s;" />
 </div>
 
 ## Socials
