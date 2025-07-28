@@ -1,6 +1,8 @@
 # **<span style="font-size: 2em;">Hey! My Name Is Muhammad Bilawal 😄</span>**
 
-**<span style="font-size: 1.2em; font-weight: bold;">🌍 I Am A Software Engineering Student And A Full Stack Developer Based In Risalpur, Pakistan.</span>**
+**<span style="font-size: 1.2em; font-weight: bold;">📍 I am a passionate Full-Stack Web Developer from Risalpur, Pakistan**
+**<div style="font-size: 1.2em; font-weight: bold;">I design, build and scale web systems that solve business challenges and boost growth.**
+
 
 ## Skills
 <div style="display: flex;">
@@ -12,6 +14,7 @@
   <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" style="height: 56px; cursor: pointer; transition: transform 0.5s;" />
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="height: 56px; cursor: pointer; transition: transform 0.5s;" />
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" style="height: 56px; cursor: pointer; transition: transform 0.5s;" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" style="height: 56px; cursor: pointer; transition: transform 0.5s;" />
   <img src="https://skillicons.dev/icons?i=react" alt="React" style="height: 56px; cursor: pointer; transition: transform 0.5s;" />
   <img src="https://skillicons.dev/icons?i=next" alt="NextJS" style="height: 56px; cursor: pointer; transition: transform 0.5s;" />
   <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" style="height: 56px; cursor: pointer; transition: transform 0.5s;" />
@@ -29,5 +32,6 @@
   <img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" style="height: 56px; cursor: pointer; transition: transform 0.5s;" />
 </div>
 
-## Socials
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-bilawal-9b57872ba/)
+## Connect
+[![View Résumé](https://img.shields.io/badge/-Résumé-4A90E2?style=for-the-badge&logo=adobepdf&logoColor=white)](https://drive.google.com/file/d/1RhcYIAa96cAvmiZBznqV-fmNi3IgRDAZ/view)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=bk4449719@gmail.com)
