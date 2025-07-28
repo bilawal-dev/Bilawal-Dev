@@ -33,5 +33,5 @@
 </div>
 
 ## Connect
-[![View Résumé](https://img.shields.io/badge/-Résumé-4A90E2?style=for-the-badge&logo=adobepdf&logoColor=white)](https://drive.google.com/file/d/1RhcYIAa96cAvmiZBznqV-fmNi3IgRDAZ/view)  
+[![View Résumé](https://img.shields.io/badge/-Résumé-4A90E2?style=for-the-badge&logo=adobepdf&logoColor=white)](https://drive.google.com/file/d/11CD-v1Y3SJgPBidW7kkrxVqMWswhLdQ_/view?usp=sharing)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=bk4449719@gmail.com)
