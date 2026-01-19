@@ -1,6 +1,6 @@
 # **<span style="font-size: 2em;">Hey! My Name Is Muhammad Bilawal 😄</span>**
 
-**<span style="font-size: 1.2em; font-weight: bold;">📍 I am a passionate Full-Stack Engineer from Risalpur, Pakistan**
+**<span style="font-size: 1.2em; font-weight: bold;">I am a passionate Full-Stack Engineer from Risalpur, Pakistan**
 **<div style="font-size: 1.2em; font-weight: bold;">I design, build and scale web systems that solve business challenges and boost growth.**
 
 
