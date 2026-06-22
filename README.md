@@ -7,10 +7,14 @@
 ## Skills
 <div style="display: flex; flex-wrap: wrap; gap: 4px;">
   <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=c" alt="C" style="height: 56px; cursor: pointer; transition: transform 0.5s;" />
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" style="height: 56px; cursor: pointer; transition: transform 0.5s;" />
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="height: 56px; cursor: pointer; transition: transform 0.5s;" />
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" style="height: 56px; cursor: pointer; transition: transform 0.5s;" />
   <img src="https://skillicons.dev/icons?i=python" alt="Python" style="height: 56px; cursor: pointer; transition: transform 0.5s;" />
   <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" style="height: 56px; cursor: pointer; transition: transform 0.5s;" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" style="height: 56px; cursor: pointer; transition: transform 0.5s;" />
   <img src="https://skillicons.dev/icons?i=react" alt="React" style="height: 56px; cursor: pointer; transition: transform 0.5s;" />
   <img src="https://skillicons.dev/icons?i=next" alt="NextJS" style="height: 56px; cursor: pointer; transition: transform 0.5s;" />
   <img src="https://skillicons.dev/icons?i=redux" alt="Redux" style="height: 56px; cursor: pointer; transition: transform 0.5s;" />
@@ -39,6 +43,7 @@
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="height: 56px; cursor: pointer; transition: transform 0.5s;" />
   <img src="https://skillicons.dev/icons?i=jest" alt="Jest" style="height: 56px; cursor: pointer; transition: transform 0.5s;" />
 </div>
+
 
 
 ## Connect
