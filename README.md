@@ -1,7 +1,7 @@
 # **<span style="font-size: 2em;">Hey! My Name Is Muhammad Bilawal 😄</span>**
 
-**<span style="font-size: 1.2em; font-weight: bold;">I am a passionate Full-Stack Engineer from Risalpur, Pakistan**
-**<div style="font-size: 1.2em; font-weight: bold;">I design, build and scale web systems that solve business challenges and boost growth.**
+**<span style="font-size: 1.2em; font-weight: bold;">I am a Full-Stack Engineer leading engineering on enterprise systems — working end to end across frontend, backend, cloud & DevOps, owning core system design and architecture.**
+**<div style="font-size: 1.2em; font-weight: bold;">I've helped US & UK teams ship production systems used by Fortune Global 500 companies. 🌍**
 
 
 ## Skills
